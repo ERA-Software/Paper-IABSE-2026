@@ -11,8 +11,8 @@ This repository accompagnies the paper "Designing structures for an uncertain fu
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ERA-Software/Paper_IABSE_2026.git
-   cd [IABSE_2026]
+   git clone https://github.com/ERA-Software/Paper-IABSE-2026.git
+   cd [Paper-IABSE-2026]
 
 ---
 
